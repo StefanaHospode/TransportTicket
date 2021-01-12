@@ -1,0 +1,390 @@
+body {
+	/*background: url(../imagini/bg.jpg) no-repeat; */
+	background-color: white;
+	font-family:Verdana, Helvetica, sans-serif;
+	font-size:100%;
+	line-height:1em;
+	/*color:white;*/
+	height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#header {
+	height: 191px;
+	margin-bottom:-8px;
+}
+#header .antet {
+	height:132px;
+	width:100%;
+	overflow:hidden;
+}
+#header .antet .fleft {
+	font-size:40px;
+	line-height:1.2em;
+	padding:26px 0 0 47px;
+}
+#header .antet .fleft a {
+	text-decoration:none;
+}
+
+footer{
+	font-family:Georgia, Helvetica, sans-serif;
+	background-color:DimGrey;
+	text-align: center;
+	/*margin-left:10%;
+	margin-right:10%;*/
+	padding-left: 8%;
+	padding-right:8%;
+	font-size:.86em;
+	color: white;
+}
+#nav-bottom {
+	background-color:white;
+	font-family: Verdana, Helvetica, sans-serif;
+    border: 1px solid #ccc;
+    border-width: 1px 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+	color:#333;
+}
+
+#nav-bottom li {
+	background-color:white;
+    position: relative;
+    display: inline;
+    font-size: 1.5rem;
+	color: #333;
+}
+
+#nav-bottom a {
+	background-color: white;
+    display: inline-block;
+    padding: 10px;
+	color: #333;
+}
+
+#nav-bottom ul {
+    position: absolute;
+    /*top:100%; Uncommenting this makes the dropdowns work in IE7 but looks a little worse in all other browsers. Your call. */
+    left: -9999px;
+    margin: 0;
+    padding: 2%;
+    text-align: left;
+    font-size: 1rem;
+    z-index: 1000;
+}
+
+#nav-bottom ul li {
+    display: block;
+}
+
+#nav-bottom li:hover ul {
+    left: 0;
+    background: #660066;
+	color: white;
+}
+
+#nav-bottom li:hover a {
+    /*text-decoration: underline;*/
+    background: #660066;
+	color: white;
+}
+
+#nav-bottom li:hover ul a {
+    text-decoration: none;
+    background: none;
+}
+
+#nav-bottom li:hover ul a:hover {
+    /*text-decoration: underline;*/
+    background: #660066;
+	color:white;
+}
+
+#nav-bottom ul a {
+    white-space: nowrap;
+    display: block;
+    border-bottom: 1px solid #ccc;
+}
+#slogan{
+	background: url(../imagini/slide1.jpg) no-repeat;
+	font-family: Copperplate Gothic Bold, Helvetica, sans-serif;
+	background-position: center;
+	height:100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slogan .inside {
+	padding:36px 0 0 50px;
+	width:300px;
+
+}
+#slogan p{
+	
+	margin-top: 5px;
+	color: white;
+	width: 1300px;
+}
+#slogan h2 {
+	font-size:30px;
+	line-height:1.2em;
+	color:white;
+	text-transform:uppercase;
+	margin-bottom:15px;
+}
+#slogan h2 span {
+	display:block;
+	font-size:40px;
+	color:white;
+}
+h2{
+	font-size:30px;
+
+	color:white;
+	text-transform:uppercase;
+
+	color:#660066;
+}
+h3{
+	font-size:20px;
+	
+	color:white;
+	text-transform:uppercase;
+
+	color:#660066;
+}
+h4 {
+	font-size: 15px;
+    color: #333;
+}
+h4 span{
+	font-size: 15px;
+	 color: DimGrey;
+}
+.curse_rez{
+	width:100%;
+	margin-top: 20px;
+	background-color:DarkGrey;
+	text-align:center;
+	color:#333;
+	margin-left:70px;
+}
+.curse_rez li {
+	float:left;
+	/*width:286px;*/
+	margin-left:40px;
+	text-align:center;
+	color:LightGrey;
+	border:2px solid white;
+	padding-left:1%;
+	padding-right:1%;
+	margin-bottom:15px;
+	padding-bottom:1%;
+}
+
+.curse_rez li.clear {
+	float:none;
+	width:auto;
+	margin:0;
+	font-size:0;
+	line-height:0;
+}
+.curse_rez h2{
+	font-size:20px;
+	color:#333;
+	font-family:Verdana, Helvetica, sans-serif;
+}
+.curse_rez p{
+	color:#333;
+	font-size:13px;
+}
+.cont{
+	width:90%;
+	padding-top:2%;
+	margin-left: 20px;
+	background-color:LightGreyGrey;
+	text-align:center;
+}
+.cont li {
+	float:left;
+	/*width:286px;*/
+	margin-left:40px;
+	text-align:center;
+	color:LightGrey;
+}
+.cont li.clear {
+	float:none;
+	width:auto;
+	margin:0;
+	font-size:0;
+	line-height:0;
+}
+.cont h2{
+	font-size:20px;
+	color:#333;
+	font-family:Verdana, Helvetica, sans-serif;
+}
+.cont p{
+	color:#333;
+	font-size:13px;
+}
+.cont .formular{
+	text-align: left;
+}
+.info {
+	width:80%;
+	margin-left: 80px;
+	background-color:DarkGrey;
+	text-align:center;
+}
+
+.info li {
+	float:left;
+	/*width:286px;*/
+	margin-left:30px;
+	margin-right:60px;
+	text-align:center;
+	color:LightGrey;
+}
+.info li.clear {
+	float:none;
+	width:auto;
+	margin:0;
+	font-size:0;
+	line-height:0;
+}
+.info1 h2{
+	color:#333;
+	font-family:Verdana, Helvetica, sans-serif;
+}
+.info1 p{
+	color:#333;
+}
+.info2{
+	margin-left:100px;
+}
+.info2 h2{
+	color:#660066;
+	font-family:Verdana, Helvetica, sans-serif;
+}
+.info2 p{
+	color:#660066;
+}
+.sectiune{
+	width:86%;
+	background-color: LightGrey;
+	margin-left:5%;
+	padding-right:2%;
+	padding-left:2%;
+	padding-bottom:3%;
+}
+.sectiune_rez{
+	width:80%;
+	text-align:center;
+	background-color: LightGrey;
+	margin-left:8%;
+	padding-right:2%;
+	padding-left:2%;
+	padding-bottom:2%;
+	padding-top:2%;
+}
+.eroareMsgContact{
+    color: red;
+    font-size: 12px;
+}
+.box_rez {
+    position:fixed;
+	margin-top:0%;
+    margin-left:5%;
+	margin-bottom:0%;
+	top:0;
+    left:0;
+    width:30%;
+    height:100%;
+    background: #d9b4b5;
+	padding-left:5%;
+	padding-top:1.2%;
+	text-align:left;
+}
+.autocar {
+    border-collapse: collapse;
+    height: auto;
+    width: auto;
+    margin-left: 10px;
+}
+ .scaun{
+ 	margin-top: 1px;
+ 	margin-bottom : 1px;
+ 	margin-left: 1px;
+ 	margin-right: 1px;
+	padding-top:1%;
+	color:white;
+	font-family:Verdana, Helvetica, sans-serif;
+	
+ } 
+.loc_autocar{
+	background-color:MediumSeaGreen;
+    cursor: pointer;
+	padding-top:1%;
+	text-align:center;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 35px;
+}
+.loc_selectat{
+	background-color:tomato;
+    cursor: pointer;
+	padding-top:1%;
+	text-align:center;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 35px;
+}
+.loc_blocat{
+	
+}
+.loc_autocar:hover{
+	background-color:tomato;
+    cursor: pointer;
+	padding-top:1%;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 35px;
+} 
+
+.autocar, td, th {
+    border: 0px solid black;
+}
+.exit{
+	background: url(../imagini/exit.png);
+  	cursor: pointer;
+  	background-repeat: no-repeat;
+  	height: 40px;
+  	width: 40px;
+}/*
+.mesaj span{
+	width: auto;
+    height: auto;
+    float: left;
+    overflow: hidden;
+    color: black;
+    font-size: 17px;
+    margin-top: -42px;
+    margin-left: 48px;
+}
+.mesaj span a{
+	color: #664004;
+    font-size: 17px
+
+}
+*/

@@ -1,0 +1,148 @@
+[
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": ""
+    },
+    {
+        "nume": "Nume",
+        "telefon": "Telefon",
+        "bilete": ""
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": null
+    },
+    {
+        "nume": "aa",
+        "telefon": "Telefon",
+        "bilete": null
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": null
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": null
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": null
+    },
+    {
+        "nume": "Claudia",
+        "telefon": "0746536089",
+        "bilete": null
+    },
+    {
+        "nume": "Diana",
+        "telefon": "0746536089",
+        "bilete": null
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc7",
+            "Loc14",
+            "Loc18"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc7",
+            "Loc14",
+            "Loc18"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc7",
+            "Loc14",
+            "Loc18"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc21",
+            "Loc22"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc18",
+            "Loc17"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc18",
+            "Loc17"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc15",
+            "Loc16"
+        ]
+    },
+    {
+        "nume": "Hospode",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc3",
+            "Loc4"
+        ]
+    },
+    {
+        "nume": "Claudia",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc39",
+            "Loc40"
+        ]
+    },
+    {
+        "nume": "Diana",
+        "telefon": "0746536089",
+        "bilete": [
+            "Loc12",
+            "Loc11"
+        ]
+    },
+    {
+        "nume": "Aabskkssadas",
+        "telefon": "0756234567",
+        "bilete": [
+            "Loc16",
+            "Loc15"
+        ]
+    },
+    {
+        "nume": "Nume",
+        "telefon": "Telefon",
+        "bilete": []
+    },
+    {
+        "nume": "aaa",
+        "telefon": "Telefon",
+        "bilete": []
+    }
+]

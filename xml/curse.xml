@@ -1,0 +1,38 @@
+﻿<curse>
+	<cursa>
+		<id>1</id>
+		<traseu>Botoșani-Iași</traseu>
+		<locatii>Hârlău</locatii>
+		<plecare>07:00(Autogara Trans-Express)</plecare>
+		<sosire>09:00(Autogara Iași-Vest)</sosire>
+		<pret>35 lei</pret>
+	</cursa>
+	
+	<cursa>
+		<id>2</id>
+		<traseu>Iași-Botoșani</traseu>
+		<locatii>Hârlău</locatii>
+		<plecare>10:00(Autogara Iași-Vest)</plecare>
+		<sosire>12:00(Autogara Trans-Express)</sosire>
+		<pret>35 lei</pret>
+	</cursa>
+	
+	<cursa>
+		<id>3</id>
+		<traseu>Botoșani-București</traseu>
+		<locatii>Tg. Frumos, Focșani</locatii>
+		<plecare>07:00(Autogara Trans-Express)</plecare>
+		<sosire>15:50(Autogara Obor)</sosire>
+		<pret>100 lei</pret>
+	</cursa>
+	
+	<cursa>
+		<id>4</id>
+		<traseu>București-Botoșani</traseu>
+		<locatii>Focșani, Tg. Frumos</locatii>
+		<plecare>20:00(Autogara Obor)</plecare>
+		<sosire>04:50(Autogara Trans-Express)</sosire>
+		<pret>100 lei</pret>
+	</cursa>
+	
+</curse>	
